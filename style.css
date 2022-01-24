@@ -22,13 +22,13 @@ body {
   width: 100%;
 }
 
-#explainer {
+.explainer {
   display: inline-flex;
   padding: 0.5rem;
   margin-bottom: 1rem;
 }
 
-#explainer p {
+.explainer p {
   margin: 0 0 0 1rem;
 }
 

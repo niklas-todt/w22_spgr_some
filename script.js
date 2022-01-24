@@ -45,7 +45,7 @@ selectLang.addEventListener('change', function() {
   if (selectLang.options[selectLang.selectedIndex].value === 'it') {
     image.src = 'assets/filter-it.png';
   } else if (selectLang.options[selectLang.selectedIndex].value === 'rm') {
-    image.src = 'assets/filter-rm.svg';
+    image.src = 'assets/filter-rm.png';
   } else {
     image.src = 'assets/filter-de.png';
   };
